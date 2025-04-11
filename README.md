@@ -1,2 +1,6 @@
 # Journal
-学习路上的日记，记录每天学了什么
+**目标** ： 学习全栈开发，记录自己的学习过程
+
+roadmap.sh
+
+![alt text](full-stack.jpg)
