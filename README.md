@@ -3,4 +3,4 @@
 
 roadmap.sh
 
-![alt text](full-stack.jpg)
+![](full-stack.jpg)
